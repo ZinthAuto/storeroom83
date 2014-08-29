@@ -7,6 +7,6 @@
         "level": "debug"
     },
     "mongodb": {
-        "dbURI": "mongodb://localhost/Storeroom83"
+        "dbURI": "mongodb://augdev:B!jaja2@kahana.mongohq.com:10023/augustine"
     }
 }
